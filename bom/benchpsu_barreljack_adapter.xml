@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Documenti\KiCad Proj\benchpsu_barreljack_adapter\benchpsu_barreljack_adapter_no_connectors\benchpsu_barreljack_adapter.kicad_sch</source>
+    <date>16/05/2023 04:20:27</date>
+    <tool>Eeschema 7.0.2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>benchpsu_barreljack_adapter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <fields>
+        <field name="Package">D4.0mm P1.50mm</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Part Number" value=""/>
+      <property name="Package" value="D4.0mm P1.50mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94d6b807-93bb-42fb-8d6c-b905e7c3a34d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <fields>
+        <field name="Package">D4.0mm P1.50mm</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Part Number" value=""/>
+      <property name="Package" value="D4.0mm P1.50mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7aebe2af-db3c-461b-9a73-70de2ccdfa50</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <fields>
+        <field name="Package">D4.0mm P1.50mm</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Part Number" value=""/>
+      <property name="Package" value="D4.0mm P1.50mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>835ba375-90e0-4fa7-83fc-62c671e0679a</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <fields>
+        <field name="Package">D4.0mm P1.50mm</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Part Number" value=""/>
+      <property name="Package" value="D4.0mm P1.50mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40ec0239-bcdc-4a43-aa08-eb1d7bfc4a80</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder</footprint>
+      <fields>
+        <field name="Package">1206</field>
+        <field name="Part Number">XL-3216SURC</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part Number" value="XL-3216SURC"/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cb4642a-99ad-4b94-89ba-b5262cb6b98f</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder</footprint>
+      <fields>
+        <field name="Package">1206</field>
+        <field name="Part Number">XL-3216SURC</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part Number" value="XL-3216SURC"/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f7da043-3891-4642-8cbb-49d48b54008a</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder</footprint>
+      <fields>
+        <field name="Package">1206</field>
+        <field name="Part Number">XL-3216SURC</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part Number" value="XL-3216SURC"/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9aaa2588-d7e2-4ed1-9028-19d37b76eead</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder</footprint>
+      <fields>
+        <field name="Package">1206</field>
+        <field name="Part Number">XL-3216SURC</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part Number" value="XL-3216SURC"/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0175e0f9-7cde-4b29-9b67-10234b1118c8</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>+</value>
+      <footprint>benchpsu_barreljack_adapter:8x10pad</footprint>
+      <fields>
+        <field name="Part Number">24.302.1</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Part Number" value="24.302.1"/>
+      <property name="Package" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22b3afa3-b69b-44c7-b0ee-c2e79cf16890</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>-</value>
+      <footprint>benchpsu_barreljack_adapter:8x10pad</footprint>
+      <fields>
+        <field name="Part Number">24.302.2</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Part Number" value="24.302.2"/>
+      <property name="Package" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15e32d57-9120-4b8a-9c8f-e0458ff09fbd</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value> DC-044K-D020</value>
+      <footprint>benchpsu_barreljack_adapter:DC-044K-D020</footprint>
+      <fields>
+        <field name="Package">1206</field>
+        <field name="Part Number">DC-044K-D020</field>
+      </fields>
+      <libsource lib="benchpsu_barreljack_adapter" part="BarrelJack234_MP" description=""/>
+      <property name="Part Number" value="DC-044K-D020"/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c9fb59f-3c36-4ae2-9ac8-d941d95f592b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Package">1206</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Part Number" value=""/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>457581a9-939a-42a6-83a8-c40ee09c8767</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Package">1206</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Part Number" value=""/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e20f9881-5b68-49dd-891f-b1e43626d419</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Package">1206</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Part Number" value=""/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e255cb5c-93dc-4989-bcc7-b572512e5bd0</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Package">1206</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Part Number" value=""/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb20433e-2396-46e2-a3d8-5cb6ace358da</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SK22D15L5</value>
+      <footprint>benchpsu_barreljack_adapter:SK22D15L5</footprint>
+      <fields>
+        <field name="Part Number">SK22D15L5</field>
+      </fields>
+      <libsource lib="benchpsu_barreljack_adapter" part="SW_Push_DPDT_MP" description="Momentary Switch, dual pole double throw"/>
+      <property name="Part Number" value="SK22D15L5"/>
+      <property name="Package" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="Momentary Switch, dual pole double throw"/>
+      <property name="ki_keywords" value="switch dual-pole double-throw spdt ON-ON"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8722ebe-cb34-4bbc-83f7-e7b371014387</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value> HT7525-1</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.holtek.com/documents/10179/116711/HT75xx-1v250.pdf</datasheet>
+      <fields>
+        <field name="Package">TO-92</field>
+        <field name="Part Number">HT7525-1</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="HT75xx-1-SOT89" description="100mA Low Dropout Voltage Regulator, Fixed Output, SOT89"/>
+      <property name="Part Number" value="HT7525-1"/>
+      <property name="Package" value="TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="100mA Low Dropout Voltage Regulator, Fixed Output, SOT89"/>
+      <property name="ki_keywords" value="100mA LDO Regulator Fixed Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fd23acb-5576-4bb4-b55e-5803b1185581</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value> HT7525-1 (SOT89)</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.holtek.com/documents/10179/116711/HT75xx-1v250.pdf</datasheet>
+      <fields>
+        <field name="Package">TO-92</field>
+        <field name="Part Number">HT7525-1</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="HT75xx-1-SOT89" description="100mA Low Dropout Voltage Regulator, Fixed Output, SOT89"/>
+      <property name="Part Number" value="HT7525-1"/>
+      <property name="Package" value="TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
+      <property name="ki_description" value="100mA Low Dropout Voltage Regulator, Fixed Output, SOT89"/>
+      <property name="ki_keywords" value="100mA LDO Regulator Fixed Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72e50e47-198f-4eb2-8a59-6097b8a68a12</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Screw_Terminal_01x01">
+      <description>Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="HT75xx-1-SOT89">
+      <description>100mA Low Dropout Voltage Regulator, Fixed Output, SOT89</description>
+      <docs>https://www.holtek.com/documents/10179/116711/HT75xx-1v250.pdf</docs>
+      <footprints>
+        <fp>SOT?89*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">HT75xx-1-SOT89</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-89-3</field>
+        <field name="Datasheet">https://www.holtek.com/documents/10179/116711/HT75xx-1v250.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VIN" type="power_in"/>
+        <pin num="3" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="benchpsu_barreljack_adapter" part="BarrelJack234_MP">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">J3</field>
+        <field name="Value">BarrelJack234_MP</field>
+        <field name="Footprint">benchpsu_barreljack_adapter:DC-044K-D020</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="MP" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="benchpsu_barreljack_adapter" part="SW_Push_DPDT_MP">
+      <description>Momentary Switch, dual pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW1</field>
+        <field name="Value">SW_Push_DPDT_MP</field>
+        <field name="Footprint">benchpsu_barreljack_adapter:SK22D15L5</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+        <pin num="4" name="A" type="passive"/>
+        <pin num="5" name="B" type="passive"/>
+        <pin num="6" name="C" type="passive"/>
+        <pin num="MP" name="MP" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>F:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>F:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>F:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>F:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="benchpsu_barreljack_adapter">
+      <uri>D:\Documenti\KiCad Proj\benchpsu_barreljack_adapter\benchpsu_barreljack_adapter_no_connectors/benchpsu_barreljack_adapter.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="MP" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="SW1" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="MP" pinfunction="MP" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="2" name="Net-(D1-A)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="3" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D3-A)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="6" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="SLEEVE">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="5" pinfunction="B" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="9" name="TIP">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J3" pin="4" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="10" name="VCC">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="6" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(J3-Pad3)">
+      <node ref="J3" pin="3" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
