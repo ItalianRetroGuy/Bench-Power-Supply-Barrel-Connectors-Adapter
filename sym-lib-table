@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "benchpsu_barreljack_adapter")(type "KiCad")(uri "${KIPRJMOD}/benchpsu_barreljack_adapter.kicad_sym")(options "")(descr ""))
+)
