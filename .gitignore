@@ -28,7 +28,7 @@ fp-info-cache
 *.xml
 *.csv
 
-# Exporter Gerbers or Archives
+# Exported Gerbers or Archives
 grb
 *.zip
 *.rar
