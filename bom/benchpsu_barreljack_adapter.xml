@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\Documenti\KiCad Proj\benchpsu_barreljack_adapter\benchpsu_barreljack_adapter_no_connectors\benchpsu_barreljack_adapter.kicad_sch</source>
-    <date>16/05/2023 04:20:27</date>
+    <date>27/05/2023 16:42:54</date>
     <tool>Eeschema 7.0.2</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -29,9 +29,10 @@
       <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
       <fields>
         <field name="Package">D4.0mm P1.50mm</field>
+        <field name="Part Number">SM1061EMB072RB</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
-      <property name="Part Number" value=""/>
+      <property name="Part Number" value="SM1061EMB072RB"/>
       <property name="Package" value="D4.0mm P1.50mm"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
@@ -45,9 +46,10 @@
       <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
       <fields>
         <field name="Package">D4.0mm P1.50mm</field>
+        <field name="Part Number">SM1061EMB072RB</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
-      <property name="Part Number" value=""/>
+      <property name="Part Number" value="SM1061EMB072RB"/>
       <property name="Package" value="D4.0mm P1.50mm"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
@@ -61,9 +63,10 @@
       <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
       <fields>
         <field name="Package">D4.0mm P1.50mm</field>
+        <field name="Part Number">SM1061EMB072RB</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
-      <property name="Part Number" value=""/>
+      <property name="Part Number" value="SM1061EMB072RB"/>
       <property name="Package" value="D4.0mm P1.50mm"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
@@ -77,9 +80,10 @@
       <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
       <fields>
         <field name="Package">D4.0mm P1.50mm</field>
+        <field name="Part Number">SM1061EMB072RB</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
-      <property name="Part Number" value=""/>
+      <property name="Part Number" value="SM1061EMB072RB"/>
       <property name="Package" value="D4.0mm P1.50mm"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
@@ -158,7 +162,7 @@
     </comp>
     <comp ref="J1">
       <value>+</value>
-      <footprint>benchpsu_barreljack_adapter:8x10pad</footprint>
+      <footprint>benchpsu_barreljack_adapter:8x10pad_stitched</footprint>
       <fields>
         <field name="Part Number">24.302.1</field>
       </fields>
@@ -174,7 +178,7 @@
     </comp>
     <comp ref="J2">
       <value>-</value>
-      <footprint>benchpsu_barreljack_adapter:8x10pad</footprint>
+      <footprint>benchpsu_barreljack_adapter:8x10pad_stitched</footprint>
       <fields>
         <field name="Part Number">24.302.2</field>
       </fields>
@@ -204,13 +208,14 @@
       <tstamps>2c9fb59f-3c36-4ae2-9ac8-d941d95f592b</tstamps>
     </comp>
     <comp ref="R1">
-      <value>100</value>
+      <value>75</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <fields>
         <field name="Package">1206</field>
+        <field name="Part Number">FRC1206F75R0TS</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Part Number" value=""/>
+      <property name="Part Number" value="FRC1206F75R0TS"/>
       <property name="Package" value="1206"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
@@ -220,13 +225,14 @@
       <tstamps>457581a9-939a-42a6-83a8-c40ee09c8767</tstamps>
     </comp>
     <comp ref="R2">
-      <value>100</value>
+      <value>75</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <fields>
         <field name="Package">1206</field>
+        <field name="Part Number">FRC1206F75R0TS</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Part Number" value=""/>
+      <property name="Part Number" value="FRC1206F75R0TS"/>
       <property name="Package" value="1206"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
@@ -236,13 +242,14 @@
       <tstamps>e20f9881-5b68-49dd-891f-b1e43626d419</tstamps>
     </comp>
     <comp ref="R3">
-      <value>100</value>
+      <value>75</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <fields>
         <field name="Package">1206</field>
+        <field name="Part Number">FRC1206F75R0TS</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Part Number" value=""/>
+      <property name="Part Number" value="FRC1206F75R0TS"/>
       <property name="Package" value="1206"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
@@ -252,13 +259,14 @@
       <tstamps>e255cb5c-93dc-4989-bcc7-b572512e5bd0</tstamps>
     </comp>
     <comp ref="R4">
-      <value>100</value>
+      <value>75</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <fields>
         <field name="Package">1206</field>
+        <field name="Part Number">FRC1206F75R0TS</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Part Number" value=""/>
+      <property name="Part Number" value="FRC1206F75R0TS"/>
       <property name="Package" value="1206"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="benchpsu_barreljack_adapter.kicad_sch"/>
