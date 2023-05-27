@@ -12,15 +12,16 @@ I highly doubt you found this page without going through [my video](https://yout
 ### Assembly
 No assembly instructions are provided, if you cannot assemble this then you should probably not be using this.
 
-### Usage
+### Powering a Device
 * Read and become familiar with the safety information and power ratings down below
 * Insert the positive banana plug coming from the bench power supply in the adapter's positive (red, or marked V+) banana socket
 * Insert the negative banana plug coming from the bench power supply in the adapter's negative (black, or marked V+) banana socket
 * Insert one end of a male-to-male 2.1mmx5.5mm barrel plug adapter inside the adapter's DC socket marked J3
 * Attach the connector you need at the other end of the male-to-male adapter
-* Insert the connector in the device which must be powered
-* Ensure the adapter board is not touching any conductive object or surface
-* Enable power output from the bench power supply
+* Plug the connector in the device which must be powered
+* Ensure the adapter board is not touching and cannot touch any conductive object or surface
+* Enable power output from the bench power supply to the adapter
+* Before unplugging the connector from the powered device, disable power output from the bench power supply to the adapter
 
 ## Safety
 ### Precautions
