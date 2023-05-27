@@ -20,9 +20,9 @@ This adapter can be powered via banana plugs (male). It can work with any univer
 ### Instructions
 No assembly instructions are provided.
 ### Bill of Materials
-[You can download the bill of materials from here](/ItalianRetroGuy/Bench-Power-Supply-Barrel-Connectors-Adapter/tree/main/bom)
+[You can download the bill of materials from here](/bom)
 ### PCB
-[You can order the PCB directly from PCBWay](), or [you can download](/ItalianRetroGuy/Bench-Power-Supply-Barrel-Connectors-Adapter/tree/main/grb) the gerber files required for assembly.
+[You can order the PCB directly from PCBWay](), or [you can download](/grb) the gerber files required for assembly.
 
 ### Powering a Device
 * Read and become familiar with the safety information and power ratings down below
