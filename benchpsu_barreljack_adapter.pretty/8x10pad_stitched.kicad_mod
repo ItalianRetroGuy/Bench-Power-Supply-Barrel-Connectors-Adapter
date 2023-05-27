@@ -6,7 +6,7 @@
   (property "Sheetname" "")
   (property "ki_description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)")
   (property "ki_keywords" "screw terminal")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "J1" (at 6.477 0.254 -180) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp cf83eb50-2e91-4d53-b63d-1bc0f64263e6)
