@@ -28,7 +28,7 @@ This adapter can be powered via banana plugs (male). It can work with any univer
 ### Bill of Materials
 [You can download the bill of materials from here](/bom/benchpsu_barreljack_adapter.csv)
 ### PCB
-[You can order the PCB directly from PCBWay](), or [you can download](/grb/grb.zip) the gerber files required for assembly.
+[You can order the PCB directly from PCBWay](https://www.pcbway.com/project/shareproject/Barrel_Connector_Adapter_for_Bench_Power_Supplies_b430900c.html), or [you can download](/grb/grb.zip) the gerber files required for assembly.
 
 ## Instructions
 ### Powering a Device
