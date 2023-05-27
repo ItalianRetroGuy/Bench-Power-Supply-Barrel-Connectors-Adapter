@@ -8,19 +8,27 @@ This project started to solve the problem of seamlessly powering up devices thro
 It receives power through banana plugs. Personally, I've decided it was the perfect way to power it because of the setup I'm running.
 I highly doubt you found this page without going through [my video](https://youtu.be/uaTE9wOTJUA) first, so you probably already know what I'm talking about!
 
-## Requirements
-Using this adapter requires the ability of supplying power to it through banana plugs (male). It also requires a universal connector set powered with 5.5mmx2.1mm sockets at the back, and a male-to-male 5.5mmx2.1mm adapter
+## Compatibility
+This adapter can be powered via banana plugs (male). It can work with any universal connector set that can be powered via 5.5mmx2.1mm DC plugs (male), as long as you own a male-to-male 5.5mmx2.1mm barrel plug adapter.
 
-## Instructions
-### Assembly
-No assembly instructions are provided, if you cannot assemble this then you should probably not be using this.
+## Recommended Connectors and Adapters (Affiliate Links)
+[Male-to-male 5.5mmx2.1mm barrel plug adapter](https://s.click.aliexpress.com/e/_DD6vQwD)
+[Universal connectors set](https://s.click.aliexpress.com/e/_DEg6efL)
+
+## Assembly
+### Instructions
+No assembly instructions are provided.
+### Bill of Materials
+[You can download the bill of materials from here](/ItalianRetroGuy/Bench-Power-Supply-Barrel-Connectors-Adapter/bom)
+### PCB
+[You can order the PCB directly from PCBWay](), or [you can download](/ItalianRetroGuy/Bench-Power-Supply-Barrel-Connectors-Adapter/grb) the gerber files required for assembly.
 
 ### Powering a Device
 * Read and become familiar with the safety information and power ratings down below
 * Insert the positive banana plug coming from the bench power supply in the adapter's positive (red, or marked V+) banana socket
 * Insert the negative banana plug coming from the bench power supply in the adapter's negative (black, or marked V+) banana socket
 * Insert one end of a male-to-male 5.5mmx2.1mm barrel plug adapter inside the adapter's DC socket marked J3
-* Attach the connector you need at the other end of the male-to-male adapter
+* Attach the connector you need at the other end of the male-to-male barrel plug adapter
 * Plug the connector in the device which must be powered
 * Ensure the adapter board is not touching and cannot touch any conductive object or surface
 * Enable power output from the bench power supply to the adapter
