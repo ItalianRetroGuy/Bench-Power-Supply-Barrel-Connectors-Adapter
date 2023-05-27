@@ -28,6 +28,7 @@ No assembly instructions are provided, if you cannot assemble this then you shou
 * Always be ready to cut power to the adapter board immediately
 * Follow the handling recommendations listed below
 * Do not exceed the power rating listed below
+* Before unplugging the connector from the powered device, disable power output from the bench power supply to the adapter
 
 ### Handling
 The bare adapter board must be kept away from any conductive object or surface. It has many easy to short points, and it would be best to have an enclosure for it. However, you must keep in mind that
