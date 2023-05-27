@@ -77,7 +77,7 @@ KS106M050C07RR0VH2FP0 | Electrolytic Capacitor | C1, C2, C3, C4 | 50V
 * Exceeding 7A WILL EVENTUALLY damage the DC Socket or heating it up more than it should
 * Exceeding 150W WILL EVENTUALLY damage the Polarity Switch or heating it up more than it should
 * Exceeding 168W WILL EVENTUALLY damage the DC Socket or heating it up more than it should
-* Exceeding ANY OF THESE, MAY cause personal injury, property damage, or fires.
+* Exceeding ANY OF THESE, MAY cause personal injury, property damage, or start fires.
 
 ##### Should these limits somehow be exceeded
 * The board MIGHT tolerate exceeding Wattage or Amperage ratings, it MIGHT tolerate exceeding 24V, but it will NEVER tolerate exceeding 30V.
