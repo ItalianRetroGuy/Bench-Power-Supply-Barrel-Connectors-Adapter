@@ -12,8 +12,8 @@ I highly doubt you found this page without going through [my video](https://yout
 This adapter can be powered via banana plugs (male). It can work with any universal connector set that can be powered via 5.5mmx2.1mm DC plugs (male), as long as you own a male-to-male 5.5mmx2.1mm barrel plug adapter.
 
 ## Recommended Connectors and Adapters (Affiliate Links)
-[Male-to-male 5.5mmx2.1mm barrel plug adapter](https://s.click.aliexpress.com/e/_DD6vQwD)
-[Universal connectors set](https://s.click.aliexpress.com/e/_DEg6efL)
+* [Male-to-male 5.5mmx2.1mm barrel plug adapter](https://s.click.aliexpress.com/e/_DD6vQwD)
+* [Universal connectors set](https://s.click.aliexpress.com/e/_DEg6efL)
 
 ## Assembly
 ### Instructions
