@@ -1,4 +1,6 @@
 # Bench Power Supply Barrel Connectors Adapter
+![2](https://github.com/ItalianRetroGuy/Bench-Power-Supply-Barrel-Connectors-Adapter/assets/88715197/216f13b6-8d4f-4f1b-96aa-b59b8f30e005)
+![3](https://github.com/ItalianRetroGuy/Bench-Power-Supply-Barrel-Connectors-Adapter/assets/88715197/318be1e3-5c7a-4142-8473-4765cb0b64ff)
 ## Disclaimer
 I do not take any responsibilities for personal harm or property damage caused by building or using this project. Make sure to read my safety recommendations down below.
 
