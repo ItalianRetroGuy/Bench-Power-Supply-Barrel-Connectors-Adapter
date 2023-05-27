@@ -12,6 +12,7 @@ I highly doubt you found this page without going through [my video](https://yout
 This adapter can be powered via banana plugs (male). It can work with any universal connector set that can be powered via 5.5mmx2.1mm DC plugs (male), as long as you own a male-to-male 5.5mmx2.1mm barrel plug adapter.
 
 ## Recommended Connectors and Adapters (Affiliate Links)
+<ins>***WARNING: THESE ACCESSORIES ARE ONLY RATED FOR 12V @ 3A***</ins>
 * [Male-to-male 5.5mmx2.1mm barrel plug adapter](https://s.click.aliexpress.com/e/_DD6vQwD)
 * [Universal connectors set](https://s.click.aliexpress.com/e/_DEg6efL)
 
@@ -52,7 +53,7 @@ If you can't make yourself an enclosure, you will have to pay very close attenti
 
 ### Power Rating
 #### Important Notes
-All ratings discussed here only refer to this adapter board. This doesn't apply to any kind of cable, adapter, or connector that you use with this board. Using wires, adapters, or connectors with an inferior rating can cause them to melt or catch on fire.
+All ratings discussed here only refer to this adapter board. This doesn't apply to any kind of cable, adapter, or connector that you use with this board. Using wires, adapters, or connectors with an inferior rating can cause them to melt or catch on fire if their own rating is exceeded.
 
 #### Absolute Maximum Rating
 24V @ 3A
