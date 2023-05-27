@@ -8,6 +8,9 @@ This project started to solve the problem of seamlessly powering up devices thro
 It receives power through banana plugs. Personally, I've decided it was the perfect way to power it because of the setup I'm running.
 I highly doubt you found this page without going through [my video](https://youtu.be/uaTE9wOTJUA) first, so you probably already know what I'm talking about!
 
+## Use Cases
+I mainly use this for powering retro consoles through their DC jacks, because of their reduced current draw and voltage requirement. It might be possible to power laptops too but only while idling, as  they tend to have a much higher current draw which could exceed the capabilities of the board.
+
 ## Compatibility
 This adapter can be powered via banana plugs (male). It can work with any universal connector set that can be powered via 5.5mmx2.1mm DC plugs (male), as long as you own a male-to-male 5.5mmx2.1mm barrel plug adapter.
 
@@ -17,13 +20,13 @@ This adapter can be powered via banana plugs (male). It can work with any univer
 * [Universal connectors set](https://s.click.aliexpress.com/e/_DEg6efL)
 
 ## Assembly
-### Instructions
-No assembly instructions are provided.
+### No assembly instructions are provided.
 ### Bill of Materials
 [You can download the bill of materials from here](/bom/benchpsu_barreljack_adapter.csv)
 ### PCB
 [You can order the PCB directly from PCBWay](), or [you can download](/grb/grb.zip) the gerber files required for assembly.
 
+## Instructions
 ### Powering a Device
 * Read and become familiar with the safety information and power ratings down below
 * Insert the positive banana plug coming from the bench power supply in the adapter's positive (red, or marked V+) banana socket
@@ -37,7 +40,7 @@ No assembly instructions are provided.
 
 ## Safety
 ### Precautions
-* Always be ready to cut power to the adapter board immediately
+* Set a current limit or overcurrent protection of 3A on your bench power supply when using this adapter, or always be ready to cut power to the adapter board immediately
 * Follow the handling recommendations listed below
 * Do not exceed the power rating listed below
 * Before unplugging the connector from the powered device, disable power output from the bench power supply to the adapter
