@@ -108,5 +108,5 @@ Board Size | 66mm x 66mm
 Hole Pattern Spacing | 54mm
 Hole Distance From Center to Board Corner Edges | 6mm | Measured before adding fillets
 Board Fillet Diameter | 9mm
-Mounting Hole Diameter | 1.6mm
+Mounting Hole Diameter | 3.2mm
 Mounting Hole Conductive Ring Thickness | 1.2mm
