@@ -107,6 +107,6 @@ KS106M050C07RR0VH2FP0 | Electrolytic Capacitor | C1, C2, C3, C4 | 50V
 Board Size | 66mm x 66mm
 Hole Pattern Spacing | 54mm
 Hole Distance From Center to Board Corner Edges | 6mm | Measured before adding fillets
-Board Fillet Diameter | 9mm
+Board Fillet Radius | 9mm
 Mounting Hole Diameter | 3.2mm
 Mounting Hole Conductive Ring Thickness | 1.2mm
