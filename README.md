@@ -47,17 +47,17 @@ I recommend choosing a white or red solder mask color, as it boosts the red ligh
 * Insert the negative banana plug coming from the bench power supply in the adapter's negative (black, or marked V+) banana socket
 * Insert one end of a male-to-male 5.5mmx2.1mm barrel plug adapter inside the adapter's DC socket marked J3
 * Attach the connector you need at the other end of the male-to-male barrel plug adapter
-* Plug the connector in the device which must be powered
 * Ensure the adapter board is not touching and cannot touch any conductive object or surface
 * Enable power output from the bench power supply to the adapter
-* Before unplugging the connector from the powered device, disable power output from the bench power supply to the adapter
+* Select appropriate connector wiring using the selection switch
+* Plug the connector in the device which must be powered
 
 ## Safety
 ### Precautions
 * Set a current limit or overcurrent protection of 3A on your bench power supply when using this adapter, or always be ready to cut power to the adapter board immediately
 * Follow the handling recommendations listed below
 * Do not exceed the power rating listed below
-* Before unplugging the connector from the powered device, disable power output from the bench power supply to the adapter
+* Keep the board unpowered when not in use to avoid accidental shorts
 
 ### Handling
 The bare adapter board must be kept away from any conductive object or surface. It has many easy to short points, and it would be best to have an enclosure for it. However, you must keep in mind that
