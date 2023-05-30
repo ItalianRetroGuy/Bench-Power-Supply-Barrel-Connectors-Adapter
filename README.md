@@ -14,7 +14,7 @@ I highly doubt you found this page without going through [my video](https://yout
 ## Use Cases
 I mainly use this for powering retro consoles through their DC jacks, because of their reduced current draw and voltage requirement. It might be possible to power laptops too but only while idling, as they tend to have a much higher current draw which could exceed the capabilities of the board. Also, some laptops can detect it's not the original charger (don't ask me how, I assume the charger sends some info when plugged in) and refuse to let power in.
 
-The polarity switch is useful for devices like the Sega Game Gear which require a different connector polarity based on their region, but generally speaking retro consoles come from a time where it was very likely to find negative-sleeve connectors. When working on a lot of them you might find yourself needing to reverse it quite a few times.
+The polarity switch is useful for devices like the Sega Game Gear which require a different connector polarity based on their region, but generally speaking retro consoles come from a time where it was very likely to find negative-sleeve connectors. When working on a lot of them you might find yourself needing to switch it quite a few times.
 
 ## Compatibility
 This adapter can be powered via banana plugs (male). It can work with any universal connector set that can be powered via 5.5mmx2.1mm DC plugs (male), as long as you own a male-to-male 5.5mmx2.1mm barrel plug adapter.
