@@ -22,6 +22,7 @@ This adapter can be powered via banana plugs (male). It can work with any univer
 ## Recommended Connectors and Adapters (Affiliate Links)
 * [Male-to-male 5.5mmx2.1mm barrel plug adapter](https://s.click.aliexpress.com/e/_DD6vQwD) <ins>***WARNING: THIS CABLE IS ONLY RATED FOR 12V @ 3A***</ins>
 * [Universal connectors set](https://s.click.aliexpress.com/e/_DEg6efL) <ins>***WARNING: THESE CONNECTORS ARE ONLY RATED FOR 90W***</ins>
+* If you want a better male-to-male adapter you can build it using solderable 5.5mmx2.1mm DC plugs and solder them to two wires. You can find 24V 3A ones on some websites.
 
 ## Assembly
 ### Instructions
