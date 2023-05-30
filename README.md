@@ -56,7 +56,8 @@ I recommend choosing a white or red solder mask color, as it boosts the red ligh
 ## Safety
 ### Precautions
 * Do not reverse the positive and negative banana plugs, the board might not survive that
-* Set a current limit or overcurrent protection of 3A on your bench power supply when using this adapter, or always be ready to cut power to the adapter board immediately
+* Set overvoltage protection on your bench power supply at 30V
+* Optionally set a current limit or overcurrent protection of 3A on your bench power supply when using this adapter, or always be ready to cut power to the adapter board immediately
 * Follow the handling recommendations listed below
 * Do not exceed the power rating listed below
 * Keep the board unpowered when not in use to avoid accidental shorts
