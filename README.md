@@ -62,7 +62,7 @@ I recommend choosing a white or red solder mask color, as it boosts the red ligh
 
 ### Handling
 The bare adapter board must be kept away from any conductive object or surface. It has many easy to short points, and it would be best to have an enclosure for it. However, you must keep in mind that
-I have not designed such an enclosure yet, and as such it is currently not available.
+I have not designed such an enclosure yet, and it is currently not available.
 
 My recommendations for it would be to use simple brass standoffs, with two simple laser-cut acrylic plates above and below.
 If you have a 3D printer you can probably design yourself a plastic enclosure with some slots to insert clear plastic sheets of any kind.
