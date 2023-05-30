@@ -20,9 +20,8 @@ The polarity switch is useful for devices like the Sega Game Gear which require 
 This adapter can be powered via banana plugs (male). It can work with any universal connector set that can be powered via 5.5mmx2.1mm DC plugs (male), as long as you own a male-to-male 5.5mmx2.1mm barrel plug adapter.
 
 ## Recommended Connectors and Adapters (Affiliate Links)
-<ins>***WARNING: THESE ACCESSORIES ARE ONLY RATED FOR 12V @ 3A***</ins>
-* [Male-to-male 5.5mmx2.1mm barrel plug adapter](https://s.click.aliexpress.com/e/_DD6vQwD)
-* [Universal connectors set](https://s.click.aliexpress.com/e/_DEg6efL)
+* [Male-to-male 5.5mmx2.1mm barrel plug adapter](https://s.click.aliexpress.com/e/_DD6vQwD) <ins>***WARNING: THIS CABLE IS ONLY RATED FOR 12V @ 3A***</ins>
+* [Universal connectors set](https://s.click.aliexpress.com/e/_DEg6efL) <ins>***WARNING: THESE CONNECTORS ARE ONLY RATED FOR 90W***</ins>
 
 ## Assembly
 ### Instructions
