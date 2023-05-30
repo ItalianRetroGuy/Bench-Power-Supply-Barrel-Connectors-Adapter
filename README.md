@@ -32,7 +32,7 @@ Assembling this should be very straightforward, there are markings on the board 
 * The voltage regulators are TO-92 packages and they have the flat side marked down on the board.
 * The DC socket cannot be placed in the wrong way.
 * The polarity switch has the actuator drawn on the board but you can also rotate it to make it harder to be accidentally flicked. If you somehow prefer you can even mount it on the other side of the board.
-* The banana sockets are slightly more complicated, you can see a bit of how I did in [my video](https://youtu.be/uaTE9wOTJUA) for this project. I recommend making sure the solder starts slightly poking out of the holes on the other side of the board, this is to ensure a very strong mount that is taking advantage of the entire board strength.
+* The banana sockets are slightly more complicated, you can see a bit of how I did in [my video](https://youtu.be/uaTE9wOTJUA) for this project. I recommend making sure the solder starts slightly poking out of the holes on the other side of the board, acting like tiny rivets. This is to ensure a very strong mount that is taking advantage of the entire board strength.
 ### Bill of Materials
 [You can download the bill of materials from here](/bom/benchpsu_barreljack_adapter.csv)
 ### PCB
